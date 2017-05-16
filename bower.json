@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "polymer": "polymer/polymer#^1.6.0",
-    "Sortable": "https://github.com/billy-hardy/Sortable"
+    "Sortable": "https://github.com/billy-hardy/Sortable.git"
   }
 }
